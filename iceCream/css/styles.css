@@ -1,0 +1,25 @@
+
+body{
+    background: url("../img/background.jpg") center center fixed;
+}
+.card-alert{
+    width: 100%;
+    height: 60vh;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 10px auto;
+}
+.bot-img{
+    width: 40%;
+    border-radius: 100%;
+}
+.client-img{
+    width: 90%;
+    border-radius: 100%;
+}
+.input-amount{
+    outline: none;
+    border:  none;
+    border-bottom: 1px solid;
+}
